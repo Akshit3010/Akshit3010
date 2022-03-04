@@ -19,9 +19,11 @@
  <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
 <br/>
-
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshit3010&theme=dark)](https://git.io/streak-stats)
-
+<p align="center">
+    <a href="https://github.com/Akshit3010/github-readme-streak-stats">
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit3010&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 <p align="center">
     <a href="https://github.com/Akshit3010/github-readme-stats"><img alt="Akshit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akshit3010&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>

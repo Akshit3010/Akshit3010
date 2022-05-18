@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/56001279/169038066-f130139e-766a-4994-a82b-7ad75bf8ba2e.gif)](https://github.com/akshit3010)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit3010&layout=compact)](https://github.com/Akshit3010/github-readme-stats)
 
 <h3 align="center">Languages and Tools:</h3>

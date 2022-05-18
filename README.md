@@ -17,6 +17,16 @@
 
 - 📫 How to reach me **akshitrana21@gmail.com**
 
+<br>
+<h3 align="left">Connect with me:</h3>
+<hr>
+<p align="left">
+<a href="https://www.linkedin.com/in/akshit-rana-10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshitrana" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_akshit._.3010_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshit3010" height="30" width="40" /></a>
+<a href="https://codepen.io/akshit3010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akshit3010" height="30" width="40" /></a>
+</p>
+<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <hr>
   

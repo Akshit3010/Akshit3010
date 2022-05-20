@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/56001279/169038066-f130139e-766a-4994-a82b-7ad75bf8ba2e.gif)](https://github.com/akshit3010)
+[![MasterHead](https://user-images.githubusercontent.com/56001279/169477251-aa2fe072-f757-4b63-a480-58302b3a5df9.gif)](https://github.com/akshit3010)
 
 <h1 align="center">Hi 👋, I'm Akshit Rana</h1>
 <br/>

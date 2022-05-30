@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React & DSA**
 
-- 👨‍💻 All my projects are available at my [Portfolio](https://arpit-surana.netlify.app/)
-
 - 📫 How to reach me **akshitrana21@gmail.com**
 
 <br>

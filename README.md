@@ -26,6 +26,8 @@
 
 - 📫 How to reach me **akshitrana21@gmail.com**
 
+- 👨‍💻 All my projects are available at my [Portfolio](https://akshit3010.github.io/)
+
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
 <br>

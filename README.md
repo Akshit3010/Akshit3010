@@ -35,8 +35,8 @@
 <hr>
 <p align="left">
 <a href="https://www.linkedin.com/in/akshit-rana-10/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshitrana" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_akshit._.3010_/" target="_open"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshit3010" height="30" width="40" /></a>
-<a href="https://codepen.io/akshit3010" target="_open"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akshit3010" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_akshit._.3010_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshit3010" height="30" width="40" /></a>
+<a href="https://codepen.io/akshit3010" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akshit3010" height="30" width="40" /></a>
 </p>
 <br>
 
@@ -60,3 +60,7 @@
 <br/>
 <a href="https://github.com/Akshit3010/github-readme-activity-graph"><img alt="Akshit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akshit3010&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+ </p>

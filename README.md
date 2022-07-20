@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Nextjs**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React & DSA**
 

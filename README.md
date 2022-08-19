@@ -1,7 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/56001279/169477251-aa2fe072-f757-4b63-a480-58302b3a5df9.gif)](https://github.com/akshit3010)
 
 <h1 align="center">Hi 👋, I'm Akshit Rana</h1>
-<h3 align="center">A Full Stack Developer in the process.</h3>
+<h4 align="center">A passionate Full-Stack Developer who loves to create smart and highly polished interfaces for the web 💻. I love learning new things every day and keeping up with new technologies. My interests range from technology to design.</h4>
+
 
 <p align= "center">
 <img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
@@ -11,14 +12,16 @@
 <img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
 </p>
 
+<!---
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://github.com/akshit3010)
 <br/>
+-->
 <br/>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshit3010&label=Profile%20views&color=0e75b6&style=flat" alt="akshitrana" /> </p>
 
-- 🔭 I’m currently pursuing **Full Stack Web Development**
+- 🌍 I'm based in **Kangra, Himachal Pradesh**
 
 - 🌱 I’m currently learning **Nextjs**
 

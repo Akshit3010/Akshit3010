@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/56001279/169477251-aa2fe072-f757-4b63-a480-58302b3a5df9.gif)](https://github.com/akshit3010)
 
 <h1 align="center">Hi 👋, I'm Akshit Rana</h1>
-<h4 align="center">A passionate Full-Stack Developer who loves to create smart and highly polished interfaces for the web 💻. I love learning new things every day and keeping up with new technologies. My interests range from technology to design.</h4>
+<h4 align="center">A passionate Full-Stack Web Developer who loves to create smart and highly polished interfaces for the web 💻. I love learning new things every day and keeping up with new technologies. My interests range from technology to design.</h4>
 
 
 <p align= "center">

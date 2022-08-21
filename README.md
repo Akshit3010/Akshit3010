@@ -38,11 +38,11 @@
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
-   <a href="https://akshit3010.github.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="akshitrana21" /></a>
-<a href="https://www.linkedin.com/in/akshit-rana-10/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshitrana" height="30" width="40" /></a>
-<a href="https://codepen.io/akshit3010" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akshit3010" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/akshitrana21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshitrana21" height="30" width="40" /></a> 
- 
+ <a href="https://akshit3010.github.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="akshitrana21" /></a>
+<a href="https://www.linkedin.com/in/akshit-rana-10/" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="akshitrana"  /></a>  
+ <a href="https://www.hackerrank.com/akshitrana21" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="akshitrana21" /></a> 
+<a href="https://codepen.io/akshit3010" target="_blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="akshit3010" /></a>
+   
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -52,15 +52,15 @@
 
 <h3 align="left">Github Stats:</h3>
 <hr>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshit3010&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="akshit3010" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshit3010&langs_count=10&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="akshit3010" /></p>
 
 <p align="center">
     <a href="https://github.com/Akshit3010/github-readme-streak-stats">
-        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit3010&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit3010&theme=black-ice&hide_border=true&stroke=0000&bg_color=0D1117"/>
     </a>
 </p>
 <p align="center">
-    <a href="https://github.com/Akshit3010/github-readme-stats"><img alt="Akshit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akshit3010&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Akshit3010/github-readme-stats"><img alt="Akshit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akshit3010&show_icons=true&count_private=true&show_owner=ture&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
  
 <br/>

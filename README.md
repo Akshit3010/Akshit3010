@@ -16,7 +16,7 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://github.com/akshit3010)
 <br/>
 -->
-<br/>
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshit3010&label=Profile%20views&color=0e75b6&style=flat" alt="akshitrana" /> </p>
@@ -33,15 +33,17 @@
 
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
-<br>
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <hr>
 <p align="left">
+   <a href="https://akshit3010.gtihub.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="akshitrana21" /></a>
 <a href="https://www.linkedin.com/in/akshit-rana-10/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshitrana" height="30" width="40" /></a>
 <a href="https://codepen.io/akshit3010" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akshit3010" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/akshitrana21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshitrana21" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/akshitrana21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshitrana21" height="30" width="40" /></a> 
+ 
 </p>
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <hr>

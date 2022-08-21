@@ -50,7 +50,8 @@
  
 <br/>
 
-## 📊GitHub Stats :
+<h3 align="left">Github Stats:</h3>
+<hr>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshit3010&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="akshit3010" /></p>
 
 <p align="center">

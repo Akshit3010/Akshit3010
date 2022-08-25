@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
 </p>
 
-![](https://img.shields.io/static/v1?label=PROFILE+VIEWS&message=1234567890&color=007ec6)
+![](https://img.shields.io/static/v1?label=Profile+Views&message=12345&color=007ec6)
 
 <!---
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://github.com/akshit3010)

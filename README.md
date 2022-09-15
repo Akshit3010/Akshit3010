@@ -23,7 +23,7 @@
 
 - 🌍 I'm based in **Kangra, Himachal Pradesh**
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React & DSA**
 
